@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @athul007a
-- 💕 I’m interested in coding.. 
+- 💕 I’m interested in CEH
 - 🌱 I’m currently learning 
 
 <!---
